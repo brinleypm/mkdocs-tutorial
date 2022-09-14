@@ -1,5 +1,5 @@
 site_name: Getting started with MkDocs
-site_url: https://example.com/
+site_url: https://brinleypm.github.io/mkdocs-tutorial/
 theme: 
   name: material
   palette: 
