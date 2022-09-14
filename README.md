@@ -130,13 +130,13 @@ theme:
 ## Step 6 (Optional). Deploy your MkDocs Site to Github Pages
 
 You can deploy your MkDocs site to pretty much anywhere. Deploying to Github
-Pages is the easiest option and works well if you're code is hosted in a Github
+Pages is the easiest option and works well if your code is hosted in a Github
 Repo, so this tutorial will focus on deploying to Github Pages. 
 
 If you don't already have your MkDocs Site in a Github repository, you've got 
 two options:
 1. Create a fresh Github repo and connect your local MkDocs site to that repo
-2. Copy your MkDocs site into an existing Github repo on your local machiine
+2. Copy your MkDocs site into an existing Github repo that you've already cloned to your local machiine
 
 Be sure that BOTH your `.mkdocs.yml` file AND your `docs` folder are at the root
 of your Github repository. 
